@@ -7,3 +7,5 @@ suma =n1+n2
 
 print("la suma de los numeros es: ", suma)
 print("bye bye ")
+
+print("quieres que en un futuro agregue la versio de multiplicar?")
